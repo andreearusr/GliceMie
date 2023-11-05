@@ -25,29 +25,34 @@ si autorizand aceasta actiune prin alegerea ’Da’ sau ’Nu’ dintr-un popup
 <img src="https://github.com/andreearusr/GliceMie/assets/97918452/3e9e3578-fd8c-4946-bbe0-91340f71bcf4" height="550" width="300"/>
 
 <br><br>
-### 4. Editare/Inregistrare valoare glicemie:
+### 4. Editare/Adaugare valoare glicemie:
+Se pot adauga noi inregistrari sau inregistrarile existente pot fi modificate (dand click pe o inregistrare din lista de mai sus), fiind deschis un popup unde se pot actualiza datele unei inregistrari.
 
 <img src="https://github.com/andreearusr/GliceMie/assets/97918452/4015210a-6040-4cd1-8ed3-1b8b72703ba0" height="550" width="300"/>
 
 <br><br>
 ### 5. Exportare date:
+Se poate opta pentru a selecta o perioada din cele predefinite sau se poate selecta o perioada specifica.
 
 <img src="https://github.com/andreearusr/GliceMie/assets/97918452/81f77a1a-1b4b-48c2-9eaa-d9ae1488f5d5" height="550" width="300"/>
 <img src="https://github.com/andreearusr/GliceMie/assets/97918452/a908dab7-a302-4db5-9670-db47a429a851" height="550" width="300"/>
 
 <br><br>
 ### 5. Grafice:
+Se alege un tip de grafic, unul dintre: Rata crestere/scadere in ultimele 24h, Grafic perioade sau Grafic zi.
 
 <img src="https://github.com/andreearusr/GliceMie/assets/97918452/d5ef85e7-f971-498b-a6a0-b120adf94f05" height="550" width="300"/>
 <img src="https://github.com/andreearusr/GliceMie/assets/97918452/3bf85717-f67f-460e-83fb-d8801e5ac7f3" height="550" width="300"/>
 
 <br><br>
 ### 6. Notificari:
+Utilizatorul va primi notificari cu privire la reamintirea faptului ca este timpul sa isi masoare nivelul glicemiei, la orele notificarilor active.
 
 <img src="https://github.com/andreearusr/GliceMie/assets/97918452/86d4320b-86b3-486e-aef4-3185991949ce" height="550" width="300"/>
 
 <br><br>
 ### 7. Configurari:
+Putem modifica valoarea minima si maxima normala a glicemiei, luata in calcul in aplicatie pentru a evidentia valorile din acest interval, insemnand ca sunt valori bune si valorile din afara lui, fiind valori mai putin bune. Culoril alese in aceasta pagina vor fi utilizate in lista de valori si la trasarea graficelor.
 
 <img src="https://github.com/andreearusr/GliceMie/assets/97918452/f8e7b357-557a-4ec8-b490-04a17ce41a3f" height="550" width="300"/>
 
