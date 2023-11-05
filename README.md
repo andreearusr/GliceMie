@@ -20,3 +20,8 @@ app for bachelor's degree
 ### 3. Lista Valori glicemie
 
 <img src="https://github.com/andreearusr/GliceMie/assets/97918452/3e9e3578-fd8c-4946-bbe0-91340f71bcf4" height="550" width="300"/>
+
+<br<br>
+### 3. Editare/Inregistrare valoare glicemie
+
+<img src="https://github.com/andreearusr/GliceMie/assets/97918452/4015210a-6040-4cd1-8ed3-1b8b72703ba0" height="550" width="300"/>
