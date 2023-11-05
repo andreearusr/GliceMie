@@ -4,7 +4,7 @@ app for bachelor's degree
 
 ”GliceMie” este un instrument soft pentru monitorizarea nivelului glicemic, dezvoltat ca aplicatie mobila, fiind destinata persoanelor diagnosticate cu diabet zaharat (DZ) sau prediabet, indiferent de varsta. Aplicatia vine in ajutorul pacientilor prin furnizarea unui mediu de stocare si vizualizare a situatiei lor curente, cu scopul prevenirii acestei afectiuni. Utilizatorii se pot folosi de exportarea datelor in format pdf, pentru a putea fi prezentate medicului.
 
-## Functionalitatile aplicatiei
+##  Functionalitatile aplicatiei
 
 ### 1. Logare + Inregistrare cont: </span>
 
@@ -25,3 +25,10 @@ app for bachelor's degree
 ### 4. Editare/Inregistrare valoare glicemie:
 
 <img src="https://github.com/andreearusr/GliceMie/assets/97918452/4015210a-6040-4cd1-8ed3-1b8b72703ba0" height="550" width="300"/>
+
+<br><br>
+### 5. Exportare date:
+
+<img src="https://github.com/andreearusr/GliceMie/assets/97918452/81f77a1a-1b4b-48c2-9eaa-d9ae1488f5d5" height="550" width="300"/>
+<img src="https://github.com/andreearusr/GliceMie/assets/97918452/a908dab7-a302-4db5-9670-db47a429a851" height="550" width="300"/>
+
