@@ -32,3 +32,9 @@ app for bachelor's degree
 <img src="https://github.com/andreearusr/GliceMie/assets/97918452/81f77a1a-1b4b-48c2-9eaa-d9ae1488f5d5" height="550" width="300"/>
 <img src="https://github.com/andreearusr/GliceMie/assets/97918452/a908dab7-a302-4db5-9670-db47a429a851" height="550" width="300"/>
 
+<br><br>
+### 5. Grafice
+
+<img src="https://github.com/andreearusr/GliceMie/assets/97918452/d5ef85e7-f971-498b-a6a0-b120adf94f05" height="550" width="300"/>
+<img src="https://github.com/andreearusr/GliceMie/assets/97918452/3bf85717-f67f-460e-83fb-d8801e5ac7f3" height="550" width="300"/>
+
