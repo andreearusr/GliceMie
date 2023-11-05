@@ -14,4 +14,4 @@ app for bachelor's degree
 <br><br>
 2. Pagina principala:
 
-<img src="https://github.com/andreearusr/GliceMie/assets/97918452/52165f96-cec4-4d8a-9cb1-d8a428244be9" height="550" width="300"/>
+<img src="https://github.com/andreearusr/GliceMie/assets/97918452/52165f96-cec4-4d8a-9cb1-d8a428244be9" height="550" width="300" align="center"/>
