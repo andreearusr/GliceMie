@@ -7,6 +7,7 @@ app for bachelor's degree
 ##  Functionalitatile aplicatiei
 
 ### 1. Logare + Inregistrare cont: </span>
+Logarea in aplicatie cu emailul si parola asociate contului, daca sunteti inregistrat deja in aplicatie. In caz contrar, se creaza un cont nou. 
 
 <img src="https://github.com/andreearusr/GliceMie/assets/97918452/e6e73967-ecdf-4237-848c-b9a66e05daee" height="550" width="300"/>
 <img src="https://github.com/andreearusr/GliceMie/assets/97918452/b4f1d7d1-5606-4d1c-9989-435419b8a642" height="550" width="300"/>
@@ -18,6 +19,8 @@ app for bachelor's degree
 
 <br><br>
 ### 3. Lista Valori glicemie:
+Lista de valori inregistrate in timp, fiecare inregistrare avand precizata valoarea glicemiei si data si ora la care a fost adaugata. Se pot sterge valorile existente (dand click pe iconita de stergere din dreptul unei inregistrari
+si autorizand aceasta actiune prin alegerea ’Da’ sau ’Nu’ dintr-un popup de cofirmare stergere).
 
 <img src="https://github.com/andreearusr/GliceMie/assets/97918452/3e9e3578-fd8c-4946-bbe0-91340f71bcf4" height="550" width="300"/>
 
