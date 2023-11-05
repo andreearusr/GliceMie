@@ -52,7 +52,7 @@ Utilizatorul va primi notificari cu privire la reamintirea faptului ca este timp
 
 <br><br>
 ### 7. Configurari:
-Putem modifica valoarea minima si maxima normala a glicemiei, luata in calcul in aplicatie pentru a evidentia valorile din acest interval, insemnand ca sunt valori bune si valorile din afara lui, fiind valori mai putin bune. Culoril alese in aceasta pagina vor fi utilizate in lista de valori si la trasarea graficelor.
+Putem modifica valoarea minima si maxima normala a glicemiei, luata in calcul in aplicatie pentru a evidentia valorile si cele mai putin bune. Culorile alese in aceasta pagina vor fi utilizate in lista de valori si la trasarea graficelor.
 
 <img src="https://github.com/andreearusr/GliceMie/assets/97918452/f8e7b357-557a-4ec8-b490-04a17ce41a3f" height="550" width="300"/>
 
