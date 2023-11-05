@@ -1,3 +1,4 @@
-GliceMie
-- app for bachelor's degree
+# GliceMie 
+
+app for bachelor's degree
 
